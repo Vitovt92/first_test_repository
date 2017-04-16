@@ -1,0 +1,11 @@
+{
+  "name": "@vitovt/newdir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergeev Vitaliy",
+  "license": "ISC",
+  "description": ""
+}
